@@ -1,0 +1,55 @@
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ZeroRun2.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\CE Game.exe
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\CE Game.pdb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\obj\x86\Debug\CE Game.exe
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\obj\x86\Debug\CE Game.pdb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Idle.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Running.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Ground.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Jumping.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\ShootingUpward.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\ShootingForward.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Arrow.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherDeath.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherShoot.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherWalk.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArrow.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\HPBar.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ManaBar.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\flask_blue.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\flask_red.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Fonts\SmallArial.xnb
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ForestBkg.xnb
+J:\CE\CE Game\CE Game\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\CE\CE Game\CE Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\CE\CE Game\CE Game\obj\x86\Debug\CE Game.exe
+J:\CE\CE Game\CE Game\obj\x86\Debug\CE Game.pdb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ZeroRun2.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Idle.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Running.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Ground.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Jumping.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\ShootingUpward.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\ShootingForward.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Arrow.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherDeath.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherShoot.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherWalk.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArrow.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\HPBar.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ManaBar.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\flask_blue.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\flask_red.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ForestBkg.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Fonts\Arial.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Fonts\SmallArial.xnb
+J:\CE\CE Game\CE Game\bin\x86\Debug\CE Game.exe
+J:\CE\CE Game\CE Game\bin\x86\Debug\CE Game.pdb
+G:\Constant\CE+\CE\CE Game\CE Game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Constant\CE+\CE\CE Game\CE Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Constant\CE+\CE\CE Game\CE Game\obj\x86\Debug\CE Game.exe
+G:\Constant\CE+\CE\CE Game\CE Game\obj\x86\Debug\CE Game.pdb
+G:\Constant\CE+\CE\CE Game\CE Game\obj\x86\Debug\CE Game.csprojResolveAssemblyReference.cache

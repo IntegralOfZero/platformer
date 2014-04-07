@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\ZeroRun2.png</Source>
+      <Name>Sprites\ZeroRun2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ZeroRun2.xnb</Output>
+      <Time>2010-04-07T16:05:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Main\Idle.png</Source>
+      <Name>Sprites\Main\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Idle.xnb</Output>
+      <Time>2010-04-08T19:09:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Main\Running.png</Source>
+      <Name>Sprites\Main\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Running.xnb</Output>
+      <Time>2010-04-08T19:12:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ground.jpg</Source>
+      <Name>Sprites\Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Ground.xnb</Output>
+      <Time>2010-04-08T19:07:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Main\Jumping.png</Source>
+      <Name>Sprites\Main\Jumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\Jumping.xnb</Output>
+      <Time>2010-04-09T21:17:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Main\ShootingUpward.png</Source>
+      <Name>Sprites\Main\ShootingUpward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\ShootingUpward.xnb</Output>
+      <Time>2010-04-10T19:43:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Main\ShootingForward.png</Source>
+      <Name>Sprites\Main\ShootingForward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Main\ShootingForward.xnb</Output>
+      <Time>2010-04-10T19:39:46-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Arrow.png</Source>
+      <Name>Sprites\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\Arrow.xnb</Output>
+      <Time>2009-12-19T03:43:52-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WolfArcherDeath.png</Source>
+      <Name>Sprites\WolfArcherDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherDeath.xnb</Output>
+      <Time>2010-04-14T19:50:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WolfArcherShoot.png</Source>
+      <Name>Sprites\WolfArcherShoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherShoot.xnb</Output>
+      <Time>2010-04-13T20:57:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WolfArcherWalk.png</Source>
+      <Name>Sprites\WolfArcherWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArcherWalk.xnb</Output>
+      <Time>2010-04-13T20:55:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WolfArrow.png</Source>
+      <Name>Sprites\WolfArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\WolfArrow.xnb</Output>
+      <Time>2010-04-15T16:50:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\HPBar.png</Source>
+      <Name>Sprites\HPBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\HPBar.xnb</Output>
+      <Time>2010-04-16T21:14:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ManaBar.png</Source>
+      <Name>Sprites\ManaBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ManaBar.xnb</Output>
+      <Time>2010-04-16T21:15:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\flask_blue.png</Source>
+      <Name>Sprites\flask_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\flask_blue.xnb</Output>
+      <Time>2010-04-20T20:20:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\flask_red.png</Source>
+      <Name>Sprites\flask_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\flask_red.xnb</Output>
+      <Time>2010-04-20T20:20:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ForestBkg.bmp</Source>
+      <Name>Sprites\ForestBkg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Sprites\ForestBkg.xnb</Output>
+      <Time>2010-04-21T20:40:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2010-04-15T17:35:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SmallArial.spritefont</Source>
+      <Name>Fonts\SmallArial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\Fonts\SmallArial.xnb</Output>
+      <Time>2010-04-21T20:10:32-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>J:\CE\CE Game\CE Game\Content\</RootDirectory>
+      <LoggerRootDirectory>J:\CE\CE Game\CE Game\</LoggerRootDirectory>
+      <IntermediateDirectory>J:\CE\CE Game\CE Game\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>J:\CE\CE Game\CE Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-04-21T07:15:03.1344498-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

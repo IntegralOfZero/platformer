@@ -1,0 +1,10 @@
+creators site:
+
+-jumping equation
+-get jump to work properly
+
+xnadevelopment.com:
+
+-health bar
+-mouse clicking
+-mouse visible

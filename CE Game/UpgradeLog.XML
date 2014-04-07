@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CE Game">
+</Property><Property Name="Solution File" Value="C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\CE Game.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\CE Game.suo">
+</Property><Property Name="Date" Value="Monday, August 15, 2011">
+</Property><Property Name="Time" Value="20:40 PM">
+</Property><Property Name="Solution" Value="CE Game">
+</Property><Property Name="Solution File" Value="C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\CE Game.sln">
+</Property><Property Name="Date" Value="Monday, August 15, 2011">
+</Property><Property Name="Time" Value="20:40:51 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CE Game.sln" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CE Game.suo" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game.suo">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\CE Game.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\CE Game.csproj" Description="Project file successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\CE Game.csproj">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\CE Game.csproj.user" Description="Project user file successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\CE Game.csproj.user">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Arrow.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Arrow.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Bird.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Bird.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Camera.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Camera.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Camera2D.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Camera2D.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\BarSprites.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\BarSprites.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\EnemySprite.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\EnemySprite.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\EnemyWeapon.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\EnemyWeapon.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Ground.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Ground.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Player.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Player.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Potion.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Potion.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Program.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Program.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Game1.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Game1.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Scene2DNode.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Scene2DNode.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\SolidGround.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\SolidGround.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\WolfArcher.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\WolfArcher.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Sprite.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Sprite.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\SpriteManager.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\SpriteManager.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\WolfArrow.cs" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\WolfArrow.cs">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\Game.ico" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\Game.ico">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\GameThumbnail.png" Description="File successfully backed up as C:\Users\Owner\Desktop\Constant\CE+\CE\CE Game\Backup\CE Game\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\CE Game.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CE Game" Source="CE Game\CE Game.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CE Game.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CE Game.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\CE Game.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CE Game" Source="CE Game\CE Game.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Arial.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="SmallArial.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Idle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Jumping.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Running.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ShootingForward.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ShootingUpward.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="DeathArcher.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="FrioArcher.gif" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="HZBGObjects.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WolvenArcher.gif" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Arrow.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="coin1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="coin2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="diamond.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="doors.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="exitsign.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flask_blue.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flask_empty.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flask_green.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flask_purple.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flask_red.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flask_yellow.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ForestBkg.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="gem_blue.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="gem_dark.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="gem_green.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="gem_light.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="gem_purple.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="gem_red.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="gem_yellow.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="gold_bar.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Ground.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="HPBar.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ManaBar.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="New Bitmap Image.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="potion_blue.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="potion_dark.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="potion_green.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="potion_light.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="potion_purple.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="potion_red.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="potion_yellow.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WolfArcherDeath.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WolfArcherShoot.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WolfArcherWalk.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WolfArrow.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ZeroRun2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="CE GameContent" Source="CE Game\Content\CE GameContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

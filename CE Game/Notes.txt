@@ -1,0 +1,9 @@
+Original variables for sprite creation have an addition. A Game object is passed to every sprite during creation. This is for loading animations in other sprite classes.
+
+When drawing sprites, a variable is put in place in order to enable changing sprite effects from other sprite classes.
+
+Modified the collision algorithm to correctly handle collision between any sprites.
+
+Made a jumping algortihm that didn't work properly. See the "Splitting effecting when jumping" in the log.
+
+created jumping algorithm

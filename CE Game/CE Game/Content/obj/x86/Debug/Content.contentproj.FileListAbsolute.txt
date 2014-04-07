@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\Constant\Learning XNA 3.0 (though all tutorials were in 2.0)\CE Game\CE Game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\CE\CE Game\CE Game\Content\obj\x86\Debug\ResolveAssemblyReference.cache
